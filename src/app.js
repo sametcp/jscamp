@@ -9,7 +9,7 @@ var dolarDun = 9.20
     var dolarDun = 9.10
 }
 
-console.log(dolarDun);
+console.log(dolarDun)
 
 const euroDun = 11.2
 //euroDun = 11
